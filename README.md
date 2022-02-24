@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Vanilla JavaScript, React.js, Ruby**
 <!-- 
-- 📫 How to reach me **mail.henr** -->
+- 📫 How to reach me **** -->
 
-- ⚡ Fun fact **When I'm not programming, I am reading, working out, or **
+- ⚡ Fun fact **When I'm not programming, I am reading, working out, or learning how to play the guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
