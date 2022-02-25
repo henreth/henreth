@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, my name is Henry Miller</h1>
 <h3 align="center">I'm a full-time software engineering student at Flatiron School.</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="henreth" /> </p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=0e75b6&style=flat" alt="henreth" /> </p>
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
-- 🌱 I’m currently learning **Ruby**
+- 🚀 I’m currently learning **Ruby**
 
-- 👨‍💻 All of my projects are available at [https://github.com/henreth?tab=repositories](https://github.com/henreth?tab=repositories)
+- 👨‍🚀 All of my open-source work is available at: [https://github.com/henreth?tab=repositories](https://github.com/henreth?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
+- ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
 
 - 💬 Ask me about **Python, R, JavaScript, React.js, Ruby**
 <!-- 
 - 📫 How to reach me **** -->
 
-- ⚡ Fun fact **When I'm not programming, I am reading, working out, or learning how to play the guitar.**
+- ☀️ More: **When I'm not programming, I am reading 📖, lifting weights 🏋️‍♀️, or learning how to play the guitar 🎸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@henr-eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henr-eth" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/henrym01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrym01" height="30" width="40" /></a>
+  <a href="https://medium.com/@henr-eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henr-eth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +41,9 @@
  <!--   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>  -->
 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&show_icons=true&locale=en&layout=compact" alt="henreth" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henreth&show_icons=true&locale=en" alt="henreth" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&" alt="henreth" /></p>
