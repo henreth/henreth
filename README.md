@@ -46,8 +46,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Stats:
+<p align="left"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&show_icons=true&locale=en&layout=compact" alt="henreth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henreth&show_icons=true&locale=en" alt="henreth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&" alt="henreth" /></p>
+</p>
