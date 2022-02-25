@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Henry Miller</h1>
 <h3 align="center">I'm a full-time software engineering student at Flatiron School.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=0e75b6&style=flat" alt="henreth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
