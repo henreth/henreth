@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Henry Miller</h1>
-<h3 align="center">I'm a full-time software engineering student at Flatiron School.</h3>
+<h3 align="center">I'm a full-time Software Engineering Student at Flatiron School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 
@@ -39,7 +39,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
  <!--   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>  -->
-
 </p>
 
 ### Blogs Posts:
