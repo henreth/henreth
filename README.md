@@ -43,6 +43,7 @@
 
 ### Blogs Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Reacting to Goodreads](https://henr-eth.medium.com/reacting-to-goodreads-2cb30714dbfe?source=rss-f6d7a68e750c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
