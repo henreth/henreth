@@ -9,7 +9,7 @@
 
 - ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
 
-- 💬 Ask me about **Python, R, JavaScript, React.js, Ruby**
+- 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby**
 <!-- 
 - 📫 How to reach me **** -->
 
