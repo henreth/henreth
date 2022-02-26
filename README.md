@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, my name is Henry Miller</h1>
 <h3 align="center">I'm a full-time Software Engineering Student at Flatiron School.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
-
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
 - 🚀 I’m currently learning **Ruby**
@@ -53,4 +51,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henreth&theme=dark&show_icons=true&locale=en" alt="henreth" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&" alt="henreth" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 </p>
