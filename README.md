@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
-- 🚀 I’m currently learning **Ruby**
+- 🚀 I’m currently learning **Sinatra**
 
 - 👨‍🚀 All of my open-source work is available at: [https://github.com/henreth?tab=repositories](https://github.com/henreth?tab=repositories)
 
