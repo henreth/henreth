@@ -39,12 +39,12 @@
  <!--   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>  -->
 </p>
 
-### Recent Blog Posts:
+### My Recent Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Reacting to Goodreads](https://henr-eth.medium.com/reacting-to-goodreads-2cb30714dbfe?source=rss-f6d7a68e750c------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Stats:
+### My Stats:
 <p align="left"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" /></p>
 
