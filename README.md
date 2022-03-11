@@ -9,7 +9,7 @@
 
 - ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
 
-- 🛠 My last project was: Ghostd, a dating app experience with a ghostly twitst. [Front-End](https://github.com/henreth/ghosted-frontend)[https://github.com/henreth/ghosted-frontend](Front-End) / [https://github.com/ScarlettEller1715/Ghosted-Backend](Back-End)
+- 🛠 My last project was: **Ghostd**, a dating app experience with a ghostly twist - [Front-End](https://github.com/henreth/ghosted-frontend) / [Back-End](https://github.com/ScarlettEller1715/Ghosted-Backend)
 
 - 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby**
 <!-- 
