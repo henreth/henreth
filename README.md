@@ -3,11 +3,13 @@
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
-- 🚀 I’m currently learning **Ruby-Sinatra**
+- 🚀 I’m currently learning **Rails**
 
 - 👨‍🚀 All of my open-source work is available at: [https://github.com/henreth?tab=repositories](https://github.com/henreth?tab=repositories)
 
 - ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
+
+- 🛠 My last project was: Ghostd, a dating app experience with a ghostly twitst. [https://github.com/henreth/ghosted-frontend](Front-End) / [https://github.com/ScarlettEller1715/Ghosted-Backend](Back-End)
 
 - 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby**
 <!-- 
@@ -36,7 +38,7 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
- <!--   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>  -->
+   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 </p>
 
 ### My Recent Blog Posts:
