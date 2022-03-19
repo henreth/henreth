@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, my name is Henry Miller</h1>
-<h3 align="center">I'm a full-time Software Engineering Student at Flatiron School!</h3>
+<h1 align="center">My name is Henry Miller, welcome to my page!</h1>
+<h3 align="center">I'm a full-time Software Engineering Student at Flatiron School</h3>
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
