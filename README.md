@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
-- 🚀 I’m currently learning **Rails**
+- 🚀 I’m currently focusing on **Data Structures and Algorithms**
 
 - 👨‍🚀 All of my open-source work is available at: [https://github.com/henreth?tab=repositories](https://github.com/henreth?tab=repositories)
 
@@ -11,7 +11,7 @@
 
 - 🛠 My last project was: **Ghostd**, a dating app experience with a ghostly twist - [Front-End](https://github.com/henreth/ghosted-frontend) / [Back-End](https://github.com/ScarlettEller1715/Ghosted-Backend)
 
-- 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby**
+- 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby, Rails**
 <!-- 
 - 📫 How to reach me **** -->
 
