@@ -15,7 +15,7 @@
 <!-- 
 - 📫 How to reach me **** -->
 
-- ☀️ More: **When I'm not programming, I am reading 📖, lifting weights 🏋️, or learning how to play the guitar 🎸.**
+- ☀️ More: **When I'm not programming, you can find me reading 📖, lifting weights 🏋️, or learning how to play the guitar 🎸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
