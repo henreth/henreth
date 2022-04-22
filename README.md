@@ -1,5 +1,5 @@
 <h1 align="center">My name is Henry Miller</h1>
-<h3 align="center">I'm a full-time Software Engineering Student at Flatiron School</h3>
+<h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
@@ -9,7 +9,7 @@
 
 - ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
 
-- 🛠 My last project was: **GutHub**, an interactive cocktail mixing app - [Repo](https://github.com/JonathanLaureano/GutHub)
+- 🛠 My last project was: **Pocket Programmers**, an interactive digital trading card experience themed around famous software engineers - [Repo](https://github.com/henreth/pocket)
 
 - 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby, Rails**
 <!-- 
