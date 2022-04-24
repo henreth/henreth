@@ -9,7 +9,7 @@
 
 - ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
 
-- 🛠 My last project was: **Pocket Programmers**, an interactive digital trading card experience themed around famous software engineers - [Repo](https://github.com/henreth/pocket)
+- 🛠 My last project was: **Pocket Programmers**, an interactive digital trading card experience themed around famous software engineers - [Repo](https://github.com/henreth/pocketpros)
 
 - 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby, Rails**
 <!-- 
