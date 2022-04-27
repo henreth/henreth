@@ -5,9 +5,9 @@
  -->
 - 🚀 I’m currently focusing on **Data Structures and Algorithms**
 
-- 👨‍🚀 All of my open-source work is available at: [https://github.com/henreth?tab=repositories](https://github.com/henreth?tab=repositories)
+- 👨‍🚀 All of my open-source work is available [here](https://github.com/henreth?tab=repositories)
 
-- ✍️ You can find articles that I have written at: [https://medium.com/@henr-eth](https://medium.com/@henr-eth)
+- ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth)
 
 - 🛠 My last project was: [**Pocket Programmers**](https://github.com/henreth/pocketpros), an interactive digital trading card experience themed around famous software engineers
 
