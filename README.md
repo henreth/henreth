@@ -4,8 +4,8 @@
 <!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
  -->
 - 🚀 I’m currently focusing on **Data Structures and Algorithms**
-
-- 👨‍🚀 All of my open-source work is available [here](https://github.com/henreth?tab=repositories)
+<!-- 
+- 👨‍🚀 All of my open-source work is available [here](https://github.com/henreth?tab=repositories) -->
 
 - ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth)
 
