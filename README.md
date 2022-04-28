@@ -1,19 +1,13 @@
 <h1 align="center">My Name is Henry Miller</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
-<!-- - 🔭 I’m currently working on **Data Structures & Algorithms**
- -->
 - 🚀 I’m currently focusing on **Data Structures and Algorithms**
-<!-- 
-- 👨‍🚀 All of my open-source work is available [here](https://github.com/henreth?tab=repositories) -->
 
 - ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth)
 
 - 🛠 My last project was: [**Pocket Programmers**](https://github.com/henreth/pocketpros), an interactive digital trading card experience themed around famous software engineers
 
 - 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby, Rails**
-<!-- 
-- 📫 How to reach me **** -->
 
 - ☀️ More: **When I'm not programming, I'm either reading 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.**
 
