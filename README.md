@@ -57,9 +57,7 @@
 
 ### My Stats:
 <p align="left"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" /></p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&" alt="henreth" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" />
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henreth&theme=dark&show_icons=true&locale=en" alt="henreth" /></p> -->
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&" alt="henreth" /></p>
 </p>
