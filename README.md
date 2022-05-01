@@ -23,6 +23,14 @@
 
 - ☀️ More: **When I'm not programming, I'm either reading 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.**
 
+### My Recent Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [Type Testing my Way to Coding Creativity](https://henr-eth.medium.com/type-testing-my-way-to-coding-creativity-d461f43a448f?source=rss-f6d7a68e750c------2)
+- [Its a Match!](https://henr-eth.medium.com/its-a-match-1ccd24730254?source=rss-f6d7a68e750c------2)
+- [Reacting to Goodreads](https://henr-eth.medium.com/reacting-to-goodreads-2cb30714dbfe?source=rss-f6d7a68e750c------2)
+- [Ticket Tool:](https://henr-eth.medium.com/fetch-requests-inputs-and-a-dynamic-url-4fe15919e877?source=rss-f6d7a68e750c------2)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -45,15 +53,6 @@
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
    <a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-
-
-### My Recent Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Type Testing my Way to Coding Creativity](https://henr-eth.medium.com/type-testing-my-way-to-coding-creativity-d461f43a448f?source=rss-f6d7a68e750c------2)
-- [Its a Match!](https://henr-eth.medium.com/its-a-match-1ccd24730254?source=rss-f6d7a68e750c------2)
-- [Reacting to Goodreads](https://henr-eth.medium.com/reacting-to-goodreads-2cb30714dbfe?source=rss-f6d7a68e750c------2)
-- [Ticket Tool:](https://henr-eth.medium.com/fetch-requests-inputs-and-a-dynamic-url-4fe15919e877?source=rss-f6d7a68e750c------2)
-<!-- BLOG-POST-LIST:END -->
 
 ### My Stats:
 <p align="left"> 
