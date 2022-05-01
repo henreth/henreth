@@ -1,6 +1,17 @@
 <h1 align="center">My Name is Henry Miller</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
+
+<h4 align="center">Connect With Me:</h3>
+<div align='center'>
+  <a href="https://linkedin.com/in/henrym01">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://medium.com/@henr-eth">
+      <img src="https://img.shields.io/badge/Medium-gray?logo=medium&logoColor=white&style=for-the-badge" alt="@henr-eth"/>
+  </a>
+</div>
+
 - 🚀 I’m currently focusing on **Data Structures and Algorithms**
 
 - ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth)
@@ -10,12 +21,6 @@
 - 💬 Ask me about **Python, R, SQL, JavaScript, React.js, Ruby, Rails**
 
 - ☀️ More: **When I'm not programming, I'm either reading 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.**
-
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/henrym01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrym01" height="30" width="40" /></a>
-  <a href="https://medium.com/@henr-eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henr-eth" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
