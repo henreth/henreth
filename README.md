@@ -10,6 +10,7 @@
     <a href="https://medium.com/@henr-eth">
       <img src="https://img.shields.io/badge/Medium-gray?logo=medium&logoColor=white&style=for-the-badge" alt="@henr-eth"/>
   </a>
+  <p> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 </div>
 
 - 🚀 I’m currently focusing on **Data Structures and Algorithms**
@@ -61,5 +62,4 @@
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henreth&theme=dark&show_icons=true&locale=en" alt="henreth" /></p> -->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&" alt="henreth" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 </p>
