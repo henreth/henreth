@@ -13,7 +13,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 </div>
 
-- 🚀 I’m currently focusing on **Data Structures and Algorithms**
+- 🚀 I’m currently learning **TypeScript**
 
 - ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth)
 
