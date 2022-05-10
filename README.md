@@ -60,8 +60,8 @@
  
 ### My Stats:
 <p align="center"> 
-<img width=460 align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&hide_border=true" alt="henreth" />
-<img width=390 align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="henreth" />
+<img width=460 align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark" alt="henreth" />
+<img width=390 align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=henreth&theme=dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henreth&theme=dark&show_icons=true&locale=en" alt="henreth" /></p> -->
 </p>
