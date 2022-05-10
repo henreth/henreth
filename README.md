@@ -64,7 +64,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> -->
  
-### My Stats:
+<h3 align='center'>My Stats:</h3>
 <p align="center"> 
 <img width=390 align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark" alt="henreth" />
 <img width=330 align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" />
