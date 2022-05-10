@@ -1,8 +1,6 @@
 <h1 align="center">My Name is Henry Miller</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
-
-<h4 align="center">Connect With Me:</h3>
 <div align='center'>
   <a href="https://linkedin.com/in/henrym01">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,26 +11,34 @@
   <p> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 </div>
 
-- 🚀 I’m currently learning **TypeScript**
+<p align='center'>
+  
+- 🚀 I’m currently learning **Algorithms** and **TypeScript**.
 
-- ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth)
+<!-- - ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth) -->
 
 - 🛠 My last project was: [**Pocket Programmers**](https://github.com/henreth/pocketpros), an interactive digital trading card experience themed around famous software engineers.
 
-- 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL**
+<!-- - 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL** -->
 
-- ☀️ More: **When I'm not programming, I'm either reading 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.**
+- ☀️ More: When I'm not programming, I'm either reading 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
+  
+</p>
 
-### My Recent Blog Posts:
+<h3 align='center'>My Recent Blog Posts:</h3>
+<p align='center'>
+  
 <!-- BLOG-POST-LIST:START -->
 - [Type Testing my Way to Coding Creativity](https://henr-eth.medium.com/type-testing-my-way-to-coding-creativity-d461f43a448f?source=rss-f6d7a68e750c------2)
 - [Its a Match!](https://henr-eth.medium.com/its-a-match-1ccd24730254?source=rss-f6d7a68e750c------2)
 - [Reacting to Goodreads](https://henr-eth.medium.com/reacting-to-goodreads-2cb30714dbfe?source=rss-f6d7a68e750c------2)
 - [Ticket Tool:](https://henr-eth.medium.com/fetch-requests-inputs-and-a-dynamic-url-4fe15919e877?source=rss-f6d7a68e750c------2)
 <!-- BLOG-POST-LIST:END -->
+  
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
