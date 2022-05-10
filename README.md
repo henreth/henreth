@@ -11,7 +11,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat" alt="henreth" /> </p>
 </div>
 
-<p align='center'>
+<p align='left'>
   
 - 🚀 I’m currently learning **Algorithms** and **TypeScript**.
 
@@ -25,8 +25,8 @@
   
 </p>
 
-<h3 align='center'>My Recent Blog Posts:</h3>
-<p align='center'>
+<h3 align='left'>My Recent Blog Posts:</h3>
+<p align='left'>
   
 <!-- BLOG-POST-LIST:START -->
 - [Type Testing my Way to Coding Creativity](https://henr-eth.medium.com/type-testing-my-way-to-coding-creativity-d461f43a448f?source=rss-f6d7a68e750c------2)
@@ -37,8 +37,8 @@
   
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
@@ -64,7 +64,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> -->
  
-<h3 align='center'>My Stats:</h3>
+<h3 align='left'>My Stats:</h3>
 <p align="center"> 
 <img width=390 align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark" alt="henreth" />
 <img width=330 align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" />
