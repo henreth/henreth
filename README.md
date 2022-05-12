@@ -21,7 +21,7 @@
 
 <!-- - 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL** -->
 
-- ☀️ More: When I'm not programming, I'm either reading 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
+- ☀️ More: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
   
 </p>
 
