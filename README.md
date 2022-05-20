@@ -15,13 +15,9 @@
   
 - 🚀 I’m currently learning **Algorithms** and **TypeScript**.
 
-<!-- - ✍️ You can find articles that I have written at: [@henr-eth](https://medium.com/@henr-eth) -->
-
 - 🛠 My last project was: [**Pocket Programmers**](https://github.com/henreth/pocketpros), an interactive digital trading card experience themed around famous software engineers.
 
-<!-- - 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL** -->
-
-- ☀️ More: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
+- ☀️ More About Me: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
   
 </p>
 
