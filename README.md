@@ -20,6 +20,8 @@
   
 - 🚀 I’m currently learning **Algorithms** and **Data Structures**.
 
+- 🌌 Check out my work at: https://henreth.github.io/
+
 - 🛠 My last project was: [**Pocket Programmers**](https://github.com/henreth/pocketpros), an interactive digital trading card experience themed around famous software engineers.
 
 - ☀️ More About Me: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
