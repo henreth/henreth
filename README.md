@@ -20,7 +20,7 @@
   
 - 🚀 I’m currently learning **Algorithms** and **Data Structures**.
 
-- 🌌 Check out my work at: https://henreth.github.io/
+- 🌌 Check out my work at: **https://henreth.github.io/**
 
 - 🛠 My last project was: [**Pocket Programmers**](https://github.com/henreth/pocketpros), an interactive digital trading card experience themed around famous software engineers.
 
