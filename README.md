@@ -8,6 +8,9 @@
     <a href="https://medium.com/@henr-eth">
       <img src="https://img.shields.io/badge/Medium-gray?logo=medium&logoColor=white&style=for-the-badge" alt="@henr-eth"/>
   </a>
+      <a href="https://twitter.com/hnreth">
+      <img src="https://img.shields.io/badge/Twitter-skyblue?logo=twitter&logoColor=white&style=for-the-badge" alt="@henr-eth"/>
+  </a>
   <p> 
     <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat-square" alt="henreth" /> 
     <img src="https://img.shields.io/github/followers/henreth?label=Followers&color=lightgrey&style=flat-square" alt="henreth" />
