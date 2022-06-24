@@ -22,7 +22,7 @@
 
 - 🌌 Check out my work at: **https://henreth.github.io/**
 
-- 🔭 My last project was: [**NASAVISION**](https://github.com/henreth/nasavision), a web application that utlizes official NASA and other space related API to provide information on the universe and other space related concepts.
+- 🔭 My last project was: [**ATLAS**](https://github.com/henreth/atlas), a web application that visualizes Flashbots bundle data from recent blocks.
 
 - 🛰 More About Me: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
   
