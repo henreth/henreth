@@ -25,7 +25,7 @@
 
 - 🌌 Check out my work at: **https://henreth.github.io/**
 
-- 🔭 My last project was: [**ATLAS**](https://github.com/henreth/atlas), a web application that visualizes Flashbots bundle data from recent blocks.
+- 🔭 My last project was: [**Flashboard**](https://github.com/henreth/flashboard), a web application that visualizes Flashbots bundle data from recent blocks.
 
 - 🛰 More About Me: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
   
