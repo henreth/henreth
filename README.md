@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Henry Miller!</h1>
-<h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
+<h3 align="center">I'm a Software Engineer Located in NYC</h3>
 
 <div align='center'>
   <a href="https://linkedin.com/in/henrym01">
@@ -21,10 +21,6 @@
 
 <p align='left'>
   
-- 🚀  I’m currently learning **Algorithms** and **Data Structures**.
-
-- 🌌  Check out my work at: **https://henreth.github.io/**
-
 - 🔭  My last project was: [**Flashboard**](https://github.com/henreth/flashboard), a web application that visualizes Flashbots bundle data from recent blocks.
 
 - 🛰  More About Me: When I'm not programming, I'm either reading philosophy 📖, lifting weights 🏋️, or learning how to speak French 🇫🇷.
