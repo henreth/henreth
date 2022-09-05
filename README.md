@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Henry</h1>
 <h3 align="center">I'm a Software Engineer Located in NYC</h3>
 
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/henrym01">
     <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
