@@ -2,10 +2,10 @@
 <h3 align="center">I'm a Software Engineer Located in NYC</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/henrym01">
+  <a href="https://linkedin.com/in/henreth">
     <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <!-- <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat-square" alt="henreth" /> -->
+<!--     <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat-square" alt="henreth" /> -->
 
 
 </div>
