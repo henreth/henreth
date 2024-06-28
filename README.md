@@ -8,7 +8,7 @@
 <!--     <img src="https://komarev.com/ghpvc/?username=henreth&label=Profile%20views&color=lightgrey&style=flat-square" alt="henreth" /> -->
 
 
-</div>  
+</div>
  
 <p align="center"> 
 <img width=390 align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark" alt="henreth" />
